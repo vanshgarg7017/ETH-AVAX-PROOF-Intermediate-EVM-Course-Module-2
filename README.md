@@ -1,7 +1,10 @@
 # ETH-AVAX-PROOF-Intermediate-EVM-Course-Module-2
 This is a smart Contract in which I will connect our contract with frontend code.
 # Description
-In this function we create a functions increment, decrement and tansfer tokens one to another.
+In this function we create a functions increment, decrement and tansfer tokens one to another. we also connect our wallet with our frontend code.
+We also create hardhat network using chain id for metamask and also import some accounts using the private keys.
+after the code compile we will run url of this website and use buttons for deposit, withdraw, create, burn, tranfer tokens. 
+
 ```javascript
 // Increment 
  function Tokenincrement() public {
