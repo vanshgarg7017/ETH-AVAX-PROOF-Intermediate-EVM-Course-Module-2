@@ -1,0 +1,21 @@
+.container {
+    text-align: center;
+    padding: 20px;
+  }
+  
+  .header {
+    background-color: #f9f5f5;
+    padding: 10px;
+  }
+  
+  .account-info {
+    font-family: "Sans-serif";
+    margin-bottom: 10px;
+  }
+  
+  .token-buttons button {
+    margin: 5px;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+  }
