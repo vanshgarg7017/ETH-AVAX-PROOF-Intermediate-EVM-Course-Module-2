@@ -49,3 +49,6 @@ After this, the project will be running on your localhost. Typically at http://l
 
 # Licence
 This project is licensed under the MIT License - see the LICENSE.md file for details
+# Video Walkthrough
+
+https://www.loom.com/share/b72431124b96476bbfbeb3a183647b2b?sid=fe567c50-03b4-4f0a-ba1e-c7f4e164dcea
